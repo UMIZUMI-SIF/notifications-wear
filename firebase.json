@@ -1,0 +1,1 @@
+{"database":{"rules":"database.rules.json"},"flutter":{"platforms":{"android":{"default":{"projectId":"notifications-c339c","appId":"1:824573206688:android:7176bf61608ed15588a9c5","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"notifications-c339c","configurations":{"android":"1:824573206688:android:6195485e3cdfad3788a9c5"}}}}}}
